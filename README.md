@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm currently working on cs50x.hardvard.edu/x/2024, SQL, POWER BI , data visualization, excel, latex, <br>develop GenAI app with gemini and streamlit machine learning & Ai<br>prompt design in vertex ai machine learning &Ai<br>introduction to generative AI <br>Introduction to responsible ai<br>introduction large language models<br>chairperson @ IEEE MANGALORE<br>Data analyatic with python <br>Digital marketing @google<br>data structure @ great leanring<br>@be 10x learnt all AI tools <br>data, foundation of data @ google by coursera<br>
+ Hello, I'm Swati Mahesh Kuravattimath, a dedicated Computer Science Engineering student at P.A. College of Engineering, Mangaluru (2022-2026), currently holding a CGPA of 9.21. My expertise lies in data analytics, web development, and cloud computing, with hands-on experience in Python, C++, SQL, Power BI, and Azure Cloud Services.
+
+I am currently interning at Solukraft, where I focus on UI/UX design and front-end development using technologies such as HTML, CSS, and JavaScript. Previously, I completed a virtual internship at JP Morgan Chase, where I set up local development environments and worked on financial APIs. My project work includes developing an AI-based fraud detection system and creating an IoT-based smart dustbin for waste management, showcasing my proficiency in data visualization and machine learning integration.
+
+In addition to my technical experience, I actively contribute to my college community. I serve as the Chairperson of the IEEE Computer Society, where I organize technical workshops on AI, cloud computing, and coding competitions. I am also the Report Manager for the Embed Club and Event Coordinator for the GLUG Club, where I lead hackathons and open-source technology events.
+
+My technical interests include data science, digital marketing, and cloud technologies, and I am continuously advancing my skills through certifications and professional development.
+
+Feel free to explore my projects, and I welcome any collaboration opportunities. Let’s connect!
+
 
 
 ## 🌐 Socials:
