@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hello, I'm Swati Mahesh Kuravattimath, a dedicated Computer Science Engineering student at P.A. College of Engineering, Mangaluru (2022-2026), currently holding a CGPA of 9.21. My expertise lies in data analytics, web development, and cloud computing, with hands-on experience in Python, C++, SQL, Power BI, and Azure Cloud Services.
+ Hello, I'm Swati Mahesh Kuravattimath, a dedicated Computer Science Engineering student at P.A. College of Engineering, Mangaluru (2022-2026), currently holding a CGPA of 9.21. My expertise lies in data analytics, web development, and cloud computing, with hands-on experience in Python, Java, SQL, Power BI, and Azure Cloud Services.
 
 I am currently interning at Solukraft, where I focus on UI/UX design and front-end development using technologies such as HTML, CSS, and JavaScript. Previously, I completed a virtual internship at JP Morgan Chase, where I set up local development environments and worked on financial APIs. My project work includes developing an AI-based fraud detection system and creating an IoT-based smart dustbin for waste management, showcasing my proficiency in data visualization and machine learning integration.
 
